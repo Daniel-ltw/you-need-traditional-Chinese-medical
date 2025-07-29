@@ -3,6 +3,8 @@
 
 >程序员需要懂得的中医养生
 
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+
 ## 目录
 - [1.中医九种体质](/1.%E4%B8%AD%E5%8C%BB%E4%B9%9D%E7%A7%8D%E4%BD%93%E8%B4%A8.md)
 - [2.中药的四色五味](/2.%E4%B8%AD%E8%8D%AF%E7%9A%84%E5%9B%9B%E8%89%B2%E6%97%A0%E5%91%B3.md)
